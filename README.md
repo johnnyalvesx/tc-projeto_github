@@ -1,2 +1,3 @@
 # tc-projeto_github
-Este é meu segundo repositório público
+Este é meu segundo repositório público.
+Estou testando alterações no README.md.
